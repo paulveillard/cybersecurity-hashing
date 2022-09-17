@@ -5,6 +5,8 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## `About Hashing`
 
+![hashing](https://github.com/paulveillard/cybersecurity-hashing/blob/main/img/Hashing.png)
+
 **[`^        back to top        ^`](#)**
 
 ## `License`
